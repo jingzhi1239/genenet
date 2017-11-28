@@ -1,0 +1,51 @@
+---
+title: "Genetic Network of Forest Soil Metagenomes"
+output: html_document
+---
+
+
+
+## Forest Soil Gene Catalogue
+
+
+
+- [Reference gene catalog](http://www.zju.edu.cn) (fasta, 100M)
+: Sequences of the *** gene non-redundant gene catalog.
+- [De-nove assembled contigs](http://www.zju.edu.cn) (fasta)
+: The contig sequences from which the gene set originated.
+- [Count matrix of the reference gene catalog](http://www.zju.edu.cn) (csv)
+: A * genes v.s. 45 samples seqeunce-read count-matrix.
+- [PFAM annotation of the gene catalog](http://www.zju.edu.cn) (csv)
+: a reference table linking PFAM IDs to the contig IDs
+- [KEGG annotation of the gene catalog](http://www.zju.edu.cn) (csv)
+: a reference table linking KO IDs to the contig IDs
+- [Uniprot annotation of the gene catalog](http://www.zju.edu.cn) (csv)
+: a reference table linking Uniprot IDs and GO to the contig IDs
+
+## Raw sequence data
+
+- Sequence data were deposited at NCBI with the accession code [SRA12345678](http://www.zju.edu.cn)
+
+## R code
+
+### R code for figures
+
+- Figure 1
+- Figure 2
+- Figure 3
+- Figure 4
+- Figure 5
+- Figure 6
+
+### R code for supplementary figures
+
+- Figure S1
+- Figure S2
+- Figure S3
+- Figure S4
+- Figure S5
+- Figure S6
+- Figure S7
+
+
+
