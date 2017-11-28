@@ -28,6 +28,10 @@ output: html_document
 
 ## R code
 
+### R code for network construction
+
+- R code for network construction
+
 ### R code for figures
 
 - Figure 1
